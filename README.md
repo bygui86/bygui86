@@ -3,20 +3,20 @@
 
 <table style="width:100%;border:none;">
 <tbody>
-	<tr>
-		<td style="text-align:center;vertical-align:middle;">
-			<img src="https://raw.githubusercontent.com/bygui86/bygui86/master/images/mb-logo.png" alt="mb-logo" height="250px">
-		</td>
-		<td>
-			TODO
+<tr>
+<td style="text-align:center;vertical-align:middle;">
+<img src="https://raw.githubusercontent.com/bygui86/bygui86/master/images/mb-logo.png" alt="mb-logo" width="450px">
+</td>
+<td>
+TODO
 
-			I'm Matteo Baiguini ...
+I'm Matteo Baiguini ...
 
-			"The technology is my passion", "I love to develop" and things like these can be said by anyone. But just few of them are really going deeper into a technology, to understand really how it does work.
+"The technology is my passion", "I love to develop" and things like these can be said by anyone. But just few of them are really going deeper into a technology, to understand really how it does work.
 
-			This is how I am: analysing the requirements, searching the best technology to achieve the objective, studying and finally implementing a high-quality solution. In my philosophy these steps are all equally important.
-		</td>
-	</tr>
+This is how I am: analysing the requirements, searching the best technology to achieve the objective, studying and finally implementing a high-quality solution. In my philosophy these steps are all equally important.
+</td>
+</tr>
 </tbody>
 </table>
 
