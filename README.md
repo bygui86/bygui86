@@ -20,6 +20,8 @@ This is how I am: analysing the requirements, searching the best technology to a
 </tbody>
 </table>
 
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+
 <div align="center">
 	<a href="https://www.linkedin.com/in/matteobaiguini/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-informational?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
