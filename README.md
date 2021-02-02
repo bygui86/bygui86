@@ -72,6 +72,7 @@ a really challenging and exciting project on trading/exchange field at [Swissblo
 ### 📦 Most proud of
 
 [![Repo multi-profile](https://github-readme-stats.vercel.app/api/pin/?username=bygui86&repo=multi-profile&title_color=2bbc8a&text_color=c9cacc&icon_color=e57632&bg_color=1d1f21)](https://github.com/bygui86/multi-profile)
+[![Repo konf](https://github-readme-stats.vercel.app/api/pin/?username=bygui86&repo=konf&title_color=2bbc8a&text_color=c9cacc&icon_color=e57632&bg_color=1d1f21)](https://github.com/bygui86/konf)
 [![Repo go-traces](https://github-readme-stats.vercel.app/api/pin/?username=bygui86&repo=go-traces&title_color=2bbc8a&text_color=c9cacc&icon_color=e57632&bg_color=1d1f21)](https://github.com/bygui86/go-traces)
 
 <br>
