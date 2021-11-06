@@ -21,17 +21,23 @@ Find me on &nbsp; <a href="https://bygui86.github.io/" target="_blank"><img src=
 ![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=yellow)
 ![zsh](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
 ![bash](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
+
 ![golang](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=orange)
 ![java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=orange)
 ![make](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=orange)
+
 ![cassandra](https://img.shields.io/badge/DB-Apache_Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=2bbc8a)
 ![mongo](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![postgres](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![elastic](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elastic&logoColor=white&color=blue)
+![kafka](https://img.shields.io/badge/Tools-Apache_Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=blue)
+
 ![prometheus](https://img.shields.io/badge/Tools-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=blue)
 ![grafana](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=blue)
-![elastic](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elastic&logoColor=white&color=blue)
 ![jaeger][jaeger-badge]
-![kafka](https://img.shields.io/badge/Tools-Apache_Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=blue)
+
+![argocd][argocd-badge]
+![tekton](https://img.shields.io/badge/Tekton-basics-informational?style=flat&logoColor=white&color=blueviolet)
 ![docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![k8s](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
 ![istio](https://img.shields.io/badge/Tools-Istio-informational?style=flat&logoColor=white&color=blue)
@@ -48,6 +54,9 @@ a really challenging and exciting project on trading/exchange field at [Swissblo
 ### 🚀 Improving
 
 ![devops](https://img.shields.io/badge/DevOps-mindset-informational?style=flat&logo=twoo&logoColor=white&color=brightgreen)
+![gitops](https://img.shields.io/badge/GitOps-mindset-informational?style=flat&logo=twoo&logoColor=white&color=brightgreen)
+![chatops](https://img.shields.io/badge/ChatOps-mindset-informational?style=flat&logo=twoo&logoColor=white&color=brightgreen)
+
 ![security](https://img.shields.io/badge/Security-knowledge-informational?style=flat&logo=open-access&logoColor=white&color=red)
 ![gcp](https://img.shields.io/badge/GCP-tools-informational?style=flat&logo=google-cloud&logoColor=white&color=red)
 ![kafka](https://img.shields.io/badge/Apache_Kafka-knowledge-informational?style=flat&logo=apache-kafka&logoColor=white&color=blue)
@@ -56,8 +65,8 @@ a really challenging and exciting project on trading/exchange field at [Swissblo
 
 ### 🌱 Learning
 
-![argocd][argocd-badge]
-![tekton](https://img.shields.io/badge/Tekton-basics-informational?style=flat&logoColor=white&color=blueviolet)
+![devsecops](https://img.shields.io/badge/DevSecOps-mindset-informational?style=flat&logo=twoo&logoColor=white&color=brightgreen)
+![python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
 
 <br>
 
